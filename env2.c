@@ -131,7 +131,7 @@ void cd_previous(data_shell *datash)
 /**
  * cd_to_home - changes to home location
  *
- * @datash: data input 
+ * @datash: data input
  * Return: (nothing)
  */
 void cd_to_home(data_shell *datash)

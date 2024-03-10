@@ -2,7 +2,7 @@
 
 /**
  * get_error -  calls error according to builtin, syntax or permission
- * @datash: data structure 
+ * @datash: data structure
  * @eval: (error)
  * Return: (error)
  */

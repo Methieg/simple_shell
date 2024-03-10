@@ -2,7 +2,7 @@
 
 /**
  * bring_line -  assigns line var for get_line
- * @lineptr: Buffer store str input 
+ * @lineptr: Buffer store str input
  * @buffer: str that is called to line
  * @n: linesize
  * @j: buffer size
